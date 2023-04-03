@@ -1,5 +1,5 @@
 <?php
-$con  = mysqli_connect("localhost","root","240901","vibra_db");
+$con  = mysqli_connect("sql12.freemysqlhosting.net","sql12610854","KtEzYS8jJR","sql12610854");
  if (!$con) {
      # code...
     echo "Problem in database connection! Contact administrator!" . mysqli_error();
